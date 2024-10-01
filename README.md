@@ -1,6 +1,6 @@
-# Loaded Lecture Template
+# Fall 2024 - Class 04
 
-Template for lecture notes with reveal.js presentations, latex dependencies, poetry, and VS Code extensions for Python.
+This class reviews some basic principles in machine learning.
 
 ## Installation and Usage
 
@@ -9,10 +9,6 @@ Template for lecture notes with reveal.js presentations, latex dependencies, poe
 To use this repository via codespaces simply click on the `code` &rarr; `codespaces` &rarr; `create codespace on main` buttons.
 
 Once the codespace is open in the browser, click the three bars in the top left corner and select `Open in VS Code Desktop`.
-
-Widgets might work better when using VS Code Desktop vs. in the browser.
-
-Note the codespace might take a long time to build. This is usually due to TexLive dependencies. Use `Cmd` / `Ctrl` + `Shift` + `P` &rarr; `Codespaces: View Creation Logs` to check status.
 
 If required, use `Cmd` / `Ctrl` + `Shift` + `P` &rarr; `Codespaces: Rebuild Container` to rebuild the container. Do not use `gh codespace rebuild`. This takes a long time since it re-downloads the entire image.
 
