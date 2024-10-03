@@ -1,4 +1,4 @@
-# Fall 2024 - Class 04
+# Fall 2024 Class 04 - Basic Principles
 
 This class reviews some basic principles in machine learning.
 
